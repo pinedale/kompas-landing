@@ -15,6 +15,9 @@ function App() {
       <p className="read-the-docs">
         Pronto podrás explorar Kompas
       </p>
+      <div className="footer">
+        <p>Copyright © 2025 Kompas Lab, S.A.P.I. de C.V.</p>
+      </div>
     </>
   )
 }
