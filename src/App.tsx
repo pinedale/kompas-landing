@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div className='logo-container'>
-        <a href="https://react.dev" target="_blank">
+        <a href="https://koompas.global" target="_blank">
           <img src={kompasLogo} className="logo react" alt="React logo" />
         </a>
       </div>
